@@ -13,6 +13,9 @@ I am looking for an internship in the cybersecurity field from mid February 2023
 
 - <b>Python</b>
   - [Keylogger with Email Capability] (https://github.com/fanny-etcheto/keyLogger)
+  - [Ransomware] (https://github.com/fanny-etcheto/ransomware)
+  - [Simple trojan to open application on victim computer] (https://github.com/fanny-etcheto/trojan)
+  - [Encrypt secret text message in image using python, with an interface made with tkinter] (https://github.com/fanny-etcheto/steganography)
 
 
 
